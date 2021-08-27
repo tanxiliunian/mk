@@ -34,6 +34,7 @@
 - React中的调度系统
 
 这几项我认为是React中最难的部分，如果翻过这几座高山，React源码其实很简单。通过这几部分的相互调用就能完成整个React大厦的构建。下面我通过导图的方式来展示下Render过程的调用流程图：
+asd
 
 ![react Render阶段.png](https://github.com/tanxiliunian/mk/blob/master/react17/images/react%20Render%E9%98%B6%E6%AE%B5.png?raw=true)
 
